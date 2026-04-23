@@ -23,3 +23,4 @@ This is a forensic report about a disgruntled employee not recieveing their requ
 
 <h2>Report:</h2>
 
+https://github.com/CYBjava/Forensic-report/blob/main/Alvarez_FinalReport_RT.docx
